@@ -98,7 +98,7 @@ Started SmsSenderApplication in ... seconds
 ```
 
 ### Step 4 — Start SMS Store (Go)
-Open another **new terminal** in VS Code and run:
+Open another **new terminal** in git bash and run:
 
 ```bash
 cd sms-store
